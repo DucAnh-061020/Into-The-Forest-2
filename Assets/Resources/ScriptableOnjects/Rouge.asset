@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdc71c26efc99854da5782c8a58a6a85, type: 3}
+  m_Name: Rouge
+  m_EditorClassIdentifier: 
+  Name: Rouge
+  MaxHp: 50
+  Defense: 5
+  MaxSpeed: 5
+  AttackDamage: 15
+  AttackDiameter: 0.8
+  MovementAcceleration: 4
+  ProjectTileSpeed: 0
+  JumpForce: 0
+  ProjectTileTTL: 0
+  AttackRange: 2
+  TimeBetweenAttack: 2
+  Type: 0

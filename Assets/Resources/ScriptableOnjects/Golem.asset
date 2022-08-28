@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c6c2a19ec8958542a7eac45f68f0d51, type: 3}
+  m_Name: Golem
+  m_EditorClassIdentifier: 
+  Name: Golem
+  MaxHp: 100
+  Defense: 10
+  MaxSpeed: 10
+  AttackDamage: 50
+  AttackDiameter: 1
+  MovementAcceleration: 5
+  ProjectTileSpeed: 25
+  JumpForce: 0
+  ProjectTileTTL: 3
+  AttackRange: 2
+  TimeBetweenAttack: 3
+  Type: 2
+  SpecialAttackTime: 10
+  SecondaryAttackRange: 20
